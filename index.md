@@ -128,3 +128,8 @@ The question is where you start looking.
 <!-- Topic-specific pages linked here when built: -->
 <!-- PLACEHOLDER: fulfilment | management | structure | communication | intentional interactions -->
 <!-- PLACEHOLDER: off lead / progressive freedom | prey drive | enrichment | recall | escape | destructive behaviour | separation anxiety | crate training | loose lead walking -->
+
+---
+title: Understanding Huskies
+layout: page
+---
