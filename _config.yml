@@ -2,3 +2,7 @@ title: Understanding Huskies
 description: A framework for thinking about Huskies. What they are, what they need, and what that asks of an owner.
 theme: minima
 footer_content: "CC BY-NC 4.0 — free to share and adapt, not for commercial use."
+url: "https://ngrhodes.github.io"
+baseurl: "/understanding-huskies"
+plugins:
+  - jekyll-sitemap
