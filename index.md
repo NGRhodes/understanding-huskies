@@ -1,4 +1,7 @@
-# Understanding Huskies
+---
+title: Understanding Huskies
+layout: page
+---
 
 <!-- PAGE METADATA -->
 <!-- Title: Understanding Huskies -->
